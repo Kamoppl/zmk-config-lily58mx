@@ -1,6 +1,7 @@
 
 ## My shop keyboard-hoarders.com and keyboardhoarders.etsy.com
-![main](https://github.com/user-attachments/assets/dc59b283-8dd3-4d07-921d-e024ac4c1432)
+
+![lily](https://github.com/user-attachments/assets/41c643e3-44f1-4863-9274-2a0181e748f5)
 
 # keymap
 
