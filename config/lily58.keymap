@@ -73,9 +73,9 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&trans     &trans  &trans  &trans   &trans   &trans                     &trans       &trans         &kp EQUAL     &kp PLUS     &kp MINUS   &kp DELETE
+&trans     &trans  &trans  &trans   &trans   &trans                     &trans       &kp STAR       &kp EQUAL     &kp PLUS     &kp MINUS   &kp DELETE
 &kp GRAVE  &kp N1  &kp N2  &kp N3   &kp N4   &kp N5                     &none        &kp PAGE_DOWN  &kp UP_ARROW  &kp PAGE_UP  &none       &kp PIPE
-&kp F1     &kp F2  &kp F3  &kp F4   &kp F5   &kp F6                     &trans       &kp LEFT       &kp DOWN      &kp RIGHT    &kp INSERT  &trans
+&kp F1     &kp F2  &kp F3  &kp F4   &kp F5   &kp F6                     &trans       &kp LEFT       &kp DOWN      &kp RIGHT    &kp INSERT  &kp SLASH
 &kp F7     &kp F8  &kp F9  &kp F10  &kp F11  &kp F12  &trans    &trans  &kp KP_PLUS  &kp MINUS      &kp EQUAL     &kp LBKT     &kp RBKT    &kp BSLH
                            &trans   &trans   &trans   &trans    &trans  &trans       &trans         &trans
             >;
